@@ -1,10 +1,9 @@
-## Baseado no docs do meu trabalho de REQ
+site_name: Rush Hour - Grafos
 
-repo_url: https://github.com/projeto-de-algoritmos-2026/G15_Grafos_PA-26.2
-repo_name: G15_Grafos_PA-26.2
+repo_url: https://github.com/projeto-de-algoritmos-2026/G15_Grafos_Rush_Hour
+repo_name: G15_Grafos_Rush_Hour
 
-site_url: https://projeto-de-algoritmos-2026.github.io/G15_Grafos_PA-26.2/
-site_name: Grafos_PA-26.2
+site_url: https://projeto-de-algoritmos-2026.github.io/G15_Grafos_Rush_Hour/
 
 nav:
   - Home: index.md
