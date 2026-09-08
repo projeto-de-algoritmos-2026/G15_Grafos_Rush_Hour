@@ -4,6 +4,10 @@ Jogo Rush Hour interativo desenvolvido em HTML, CSS e JavaScript, contando com g
 
 ![Jogo finalizado](./docs/img/jogo.png)
 
+## Video de Apresentação
+
+[![Apresentação do Projeto](https://img.youtube.com/vi/e2LgMMQfSWM/maxresdefault.jpg)](https://www.youtube.com/watch?v=e2LgMMQfSWM)
+
 ## Funcionalidades
 
 * **Geração Procedural:** Cria cenários aleatórios garantindo uma solução ótima entre **8 e 20 movimentos**.

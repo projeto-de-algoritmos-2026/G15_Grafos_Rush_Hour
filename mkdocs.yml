@@ -11,6 +11,7 @@ nav:
   - Inspiração: inspiração.md
   - Algoritmo A*: algoritmo.md
   - Demonstração: demonstração.md
+  - Apresentação: apresentacao.md
 
 theme:
   name: material
